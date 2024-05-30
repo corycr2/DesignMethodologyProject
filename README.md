@@ -15,3 +15,6 @@ The square wave had a set amplitude of 5 volts centered on the 2.5v line. This m
 
 # Sine Wave Generator Requirements
 The sine wave generator had to have a variable amplitude from .25-5v. The next requirement was that the bottom of the had to be at the 0v line meaning none of the waves should be negative. The sine wave had to reach a frequency range of 1000 - 10000 Hz.
+
+# Frequency Read Requirements
+We should be able to read frequencies within the 100-10000 Hz range. This frequency read should work with typical waves i.e. (square, sine, triangle, etc.)
